@@ -1,0 +1,7 @@
+bin/
+.settings/
+*.class
+*.log
+*.txt
+*.jar
+*.war
